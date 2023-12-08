@@ -1,0 +1,30 @@
+@font-face {
+  font-family: "Segoe Script";
+  src: url("") format("embedded-opentype"),
+       url("../fonts/Segoe_Script-Regular.ttf")  format("truetype"),
+       url("../fonts/Segoe_Script-Regular.otf") format("opentype");
+   font-weight : 400;
+ 
+   
+     font-style : normal;
+}
+@font-face {
+  font-family: "Segoe Print";
+  src: url("") format("embedded-opentype"),
+       url("../fonts/Segoe_Print-Regular.ttf")  format("truetype"),
+       url("../fonts/Segoe_Print-Regular.otf") format("opentype");
+   font-weight : 400;
+ 
+   
+     font-style : normal;
+}
+@font-face {
+  font-family: "Showcard Gothic";
+  src: url("") format("embedded-opentype"),
+       url("../fonts/Showcard_Gothic-Regular.ttf")  format("truetype"),
+       url("../fonts/Showcard_Gothic-Regular.otf") format("opentype");
+   font-weight : 400;
+ 
+   
+     font-style : normal;
+}
